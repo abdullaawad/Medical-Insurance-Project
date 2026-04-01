@@ -1,1 +1,1 @@
-# Medical-Insurance-Project
+# Medical-Insurance-Machine-Learning-Project
