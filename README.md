@@ -2,7 +2,7 @@
 
 **Tools used:**
 
-- Python: Pandas, Numpy, MatPlotLib, Scikit-Learn, Plotly
+- Python: Pandas, Numpy, MatPlotLib, Seaborn, Scikit-Learn, Plotly
 - Google Colab
 
 **Medical Insurance Cost Prediction Using Regression Models:**
