@@ -22,7 +22,8 @@ Key findings:
 
 - The Decision Tree model achieved the highest accuracy, capturing non-linear relationships effectively, but showed signs of overfitting due to its sensitivity to training data. 
 - KNN and XGBoost models provided strong overall performance, offering a better balance between bias and variance.
-- Random Forest improved generalization compared to a single decision tree but did not outperform the best models in all metrics.
+- Random Forest improved generalisation compared to a single decision tree but did not outperform the best models in all metrics.
+- Upon optimising XGBoost hyperparameters, the tuned model performed weaker in comparision to the primary XGBoost model.
 
   
-This project demonstrates the application of regression techniques, model comparison, and the importance of balancing model complexity with generalization in predictive analytics.
+This project demonstrates the application of regression techniques, model comparison, and the importance of balancing model complexity with generalisation in predictive analytics.
