@@ -7,7 +7,7 @@
 
 **Medical Insurance Cost Prediction Using Regression Models:**
 
-Developed a machine learning project to predict individual medical insurance charges based on demographic and health-related features. The dataset included variables such as age, sex, BMI, smoking status, and number of children.
+Developed a machine learning model to predict individual medical insurance charges based on demographic and health-related features. The dataset included variables such as age, sex, BMI, smoking status, and number of children.
 Performed exploratory data analysis (EDA) to understand feature distributions and relationships with the target variable. Identified smoking status as the most influential factor, with smokers incurring significantly higher medical costs compared to non-smokers.
 Implemented and compared multiple regression models, including:
 
